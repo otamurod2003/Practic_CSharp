@@ -10,17 +10,18 @@ namespace _11_Delegate
         static void Main(string[] args)
         {
             //UZS to USD
-            Pul uzs = new Pul(3450000);
+            Pul Uzs = new Pul(3450000);
             PulBoshqaruvchi pulboshqaruvchi = new PulBoshqaruvchi();
             Pul.PulDelegati pulDelegati = new Pul.PulDelegati(pulboshqaruvchi.UZStoUSD);
-            pulboshqaruvchi.pulYuborish(uzs, "Agrobank", pulDelegati);
+            pulboshqaruvchi.pulYuborish(Uzs, "Agrobank", pulDelegati);
+
 
             //USD to UZS
-
             Pul Usd = new Pul(305);
             PulBoshqaruvchi pulboshqaruvchi1 = new PulBoshqaruvchi();
             Pul.PulDelegati pulDelegati1 = new Pul.PulDelegati(pulboshqaruvchi1.USDtoUZS);
             pulboshqaruvchi1.pulYuborish(Usd, "SQB", pulDelegati1);
+
             //Uzs to Rubl
             Pul Rubl = new Pul(15000);
             PulBoshqaruvchi pulboshqaruvchi2 = new PulBoshqaruvchi();
