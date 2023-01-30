@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MyPractic\03_conditionOperators\bin\Debug\net6.0\03_conditionOperators.exe
+D:\practicVisualStudio\MyPractic\03_conditionOperators\bin\Debug\net6.0\03_conditionOperators.deps.json
+D:\practicVisualStudio\MyPractic\03_conditionOperators\bin\Debug\net6.0\03_conditionOperators.runtimeconfig.json
+D:\practicVisualStudio\MyPractic\03_conditionOperators\bin\Debug\net6.0\03_conditionOperators.dll
+D:\practicVisualStudio\MyPractic\03_conditionOperators\bin\Debug\net6.0\03_conditionOperators.pdb
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\03_conditionOperators.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\03_conditionOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\03_conditionOperators.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\03_conditionOperators.AssemblyInfo.cs
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\03_conditionOperators.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\03_conditionOperators.dll
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\refint\03_conditionOperators.dll
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\03_conditionOperators.pdb
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\03_conditionOperators.genruntimeconfig.cache
+D:\practicVisualStudio\MyPractic\03_conditionOperators\obj\Debug\net6.0\ref\03_conditionOperators.dll

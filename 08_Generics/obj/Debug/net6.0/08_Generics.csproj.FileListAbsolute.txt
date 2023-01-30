@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MyPractic\08_Generics\bin\Debug\net6.0\08_Generics.exe
+D:\practicVisualStudio\MyPractic\08_Generics\bin\Debug\net6.0\08_Generics.deps.json
+D:\practicVisualStudio\MyPractic\08_Generics\bin\Debug\net6.0\08_Generics.runtimeconfig.json
+D:\practicVisualStudio\MyPractic\08_Generics\bin\Debug\net6.0\08_Generics.dll
+D:\practicVisualStudio\MyPractic\08_Generics\bin\Debug\net6.0\08_Generics.pdb
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\08_Generics.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\08_Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\08_Generics.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\08_Generics.AssemblyInfo.cs
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\08_Generics.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\08_Generics.dll
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\refint\08_Generics.dll
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\08_Generics.pdb
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\08_Generics.genruntimeconfig.cache
+D:\practicVisualStudio\MyPractic\08_Generics\obj\Debug\net6.0\ref\08_Generics.dll

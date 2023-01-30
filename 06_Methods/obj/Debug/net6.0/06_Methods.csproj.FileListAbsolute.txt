@@ -1,0 +1,15 @@
+E:\practicVisualStudio\MyPractic\06_Methods\bin\Debug\net6.0\06_Methods.exe
+E:\practicVisualStudio\MyPractic\06_Methods\bin\Debug\net6.0\06_Methods.deps.json
+E:\practicVisualStudio\MyPractic\06_Methods\bin\Debug\net6.0\06_Methods.runtimeconfig.json
+E:\practicVisualStudio\MyPractic\06_Methods\bin\Debug\net6.0\06_Methods.dll
+E:\practicVisualStudio\MyPractic\06_Methods\bin\Debug\net6.0\06_Methods.pdb
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\06_Methods.csproj.AssemblyReference.cache
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\06_Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\06_Methods.AssemblyInfoInputs.cache
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\06_Methods.AssemblyInfo.cs
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\06_Methods.csproj.CoreCompileInputs.cache
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\06_Methods.dll
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\refint\06_Methods.dll
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\06_Methods.pdb
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\06_Methods.genruntimeconfig.cache
+E:\practicVisualStudio\MyPractic\06_Methods\obj\Debug\net6.0\ref\06_Methods.dll

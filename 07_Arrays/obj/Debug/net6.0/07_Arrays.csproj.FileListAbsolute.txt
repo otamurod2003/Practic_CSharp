@@ -1,0 +1,15 @@
+E:\practicVisualStudio\MyPractic\07_Arrays\bin\Debug\net6.0\07_Arrays.exe
+E:\practicVisualStudio\MyPractic\07_Arrays\bin\Debug\net6.0\07_Arrays.deps.json
+E:\practicVisualStudio\MyPractic\07_Arrays\bin\Debug\net6.0\07_Arrays.runtimeconfig.json
+E:\practicVisualStudio\MyPractic\07_Arrays\bin\Debug\net6.0\07_Arrays.dll
+E:\practicVisualStudio\MyPractic\07_Arrays\bin\Debug\net6.0\07_Arrays.pdb
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\07_Arrays.csproj.AssemblyReference.cache
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\07_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\07_Arrays.AssemblyInfoInputs.cache
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\07_Arrays.AssemblyInfo.cs
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\07_Arrays.csproj.CoreCompileInputs.cache
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\07_Arrays.dll
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\refint\07_Arrays.dll
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\07_Arrays.pdb
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\07_Arrays.genruntimeconfig.cache
+E:\practicVisualStudio\MyPractic\07_Arrays\obj\Debug\net6.0\ref\07_Arrays.dll
