@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicVisualStudio\\MyPractic\\04_Loops\\04_Loops.csproj": {}
+    "D:\\practicVisualStudio\\MyPractic_C#\\04_Loops\\04_Loops.csproj": {}
   },
   "projects": {
-    "D:\\practicVisualStudio\\MyPractic\\04_Loops\\04_Loops.csproj": {
+    "D:\\practicVisualStudio\\MyPractic_C#\\04_Loops\\04_Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic\\04_Loops\\04_Loops.csproj",
+        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\04_Loops\\04_Loops.csproj",
         "projectName": "04_Loops",
-        "projectPath": "D:\\practicVisualStudio\\MyPractic\\04_Loops\\04_Loops.csproj",
+        "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\04_Loops\\04_Loops.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\practicVisualStudio\\MyPractic\\04_Loops\\obj\\",
+        "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\04_Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",

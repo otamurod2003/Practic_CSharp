@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicVisualStudio\\MyPractic\\10_OOP1\\10_OOP1.csproj": {}
+    "D:\\practicVisualStudio\\MyPractic_C#\\10_OOP1\\10_OOP1.csproj": {}
   },
   "projects": {
-    "D:\\practicVisualStudio\\MyPractic\\10_OOP1\\10_OOP1.csproj": {
+    "D:\\practicVisualStudio\\MyPractic_C#\\10_OOP1\\10_OOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic\\10_OOP1\\10_OOP1.csproj",
+        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\10_OOP1\\10_OOP1.csproj",
         "projectName": "10_OOP1",
-        "projectPath": "D:\\practicVisualStudio\\MyPractic\\10_OOP1\\10_OOP1.csproj",
+        "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\10_OOP1\\10_OOP1.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\practicVisualStudio\\MyPractic\\10_OOP1\\obj\\",
+        "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\10_OOP1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",

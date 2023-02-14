@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicVisualStudio\\MyPractic\\02_Variables\\02_Variables.csproj": {}
+    "D:\\practicVisualStudio\\MyPractic_C#\\02_Variables\\02_Variables.csproj": {}
   },
   "projects": {
-    "D:\\practicVisualStudio\\MyPractic\\02_Variables\\02_Variables.csproj": {
+    "D:\\practicVisualStudio\\MyPractic_C#\\02_Variables\\02_Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic\\02_Variables\\02_Variables.csproj",
+        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\02_Variables\\02_Variables.csproj",
         "projectName": "02_Variables",
-        "projectPath": "D:\\practicVisualStudio\\MyPractic\\02_Variables\\02_Variables.csproj",
+        "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\02_Variables\\02_Variables.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\practicVisualStudio\\MyPractic\\02_Variables\\obj\\",
+        "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\02_Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",

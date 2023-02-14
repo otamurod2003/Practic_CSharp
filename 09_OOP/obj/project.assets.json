@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\practicVisualStudio\\MyPractic\\09_OOP\\09_OOP.csproj",
+      "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\09_OOP\\09_OOP.csproj",
       "projectName": "09_OOP",
-      "projectPath": "D:\\practicVisualStudio\\MyPractic\\09_OOP\\09_OOP.csproj",
+      "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\09_OOP\\09_OOP.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "D:\\practicVisualStudio\\MyPractic\\09_OOP\\obj\\",
+      "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\09_OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
