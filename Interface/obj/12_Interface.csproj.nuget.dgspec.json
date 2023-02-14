@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\Interface.csproj": {}
+    "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\12_Interface.csproj": {}
   },
   "projects": {
-    "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\Interface.csproj": {
+    "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\12_Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\Interface.csproj",
-        "projectName": "Interface",
-        "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\Interface.csproj",
+        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\12_Interface.csproj",
+        "projectName": "12_Interface",
+        "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\12_Interface.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
         "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\Interface\\obj\\",
         "projectStyle": "PackageReference",
