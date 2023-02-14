@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\12_Interface.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\12_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\12_Interface.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\12_Interface.AssemblyInfo.cs
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\12_Interface.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MyPractic_C#\12_Interface\bin\Debug\net6.0\12_Interface.exe
+D:\practicVisualStudio\MyPractic_C#\12_Interface\bin\Debug\net6.0\12_Interface.deps.json
+D:\practicVisualStudio\MyPractic_C#\12_Interface\bin\Debug\net6.0\12_Interface.runtimeconfig.json
+D:\practicVisualStudio\MyPractic_C#\12_Interface\bin\Debug\net6.0\12_Interface.dll
+D:\practicVisualStudio\MyPractic_C#\12_Interface\bin\Debug\net6.0\12_Interface.pdb
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\12_Interface.dll
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\refint\12_Interface.dll
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\12_Interface.pdb
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\12_Interface.genruntimeconfig.cache
+D:\practicVisualStudio\MyPractic_C#\12_Interface\obj\Debug\net6.0\ref\12_Interface.dll
