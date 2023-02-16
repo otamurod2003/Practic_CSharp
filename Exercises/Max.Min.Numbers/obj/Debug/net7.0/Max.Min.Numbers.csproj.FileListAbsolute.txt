@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\bin\Debug\net7.0\Max.Min.Numbers.exe
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\bin\Debug\net7.0\Max.Min.Numbers.deps.json
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\bin\Debug\net7.0\Max.Min.Numbers.runtimeconfig.json
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\bin\Debug\net7.0\Max.Min.Numbers.dll
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\bin\Debug\net7.0\Max.Min.Numbers.pdb
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\Max.Min.Numbers.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\Max.Min.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\Max.Min.Numbers.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\Max.Min.Numbers.AssemblyInfo.cs
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\Max.Min.Numbers.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\Max.Min.Numbers.dll
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\refint\Max.Min.Numbers.dll
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\Max.Min.Numbers.pdb
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\Max.Min.Numbers.genruntimeconfig.cache
+D:\practicVisualStudio\MyPractic_C#\Exercises\Max.Min.Numbers\obj\Debug\net7.0\ref\Max.Min.Numbers.dll
