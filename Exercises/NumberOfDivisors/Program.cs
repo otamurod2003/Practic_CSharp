@@ -1,25 +1,22 @@
-﻿int number,divisors,i;
-int[] numbers;
-
+﻿//Kiritilgan sonning bo'luvchilarini topuvchi dastur
+long number;
+Console.WriteLine("Son kiriting: ");
+number = Convert.ToInt64(Console.ReadLine());
+long[] divisors = new long[number];
+divisors[0] = 1;
+Console.WriteLine("Sonning 1 dan tashqari bo'luvchilari");
 try
 {
-    //Console.Write("Son kiriting:");
-    //number = Convert.ToInt32(Console.ReadLine());
-    //numbers = new int[number];
-    //for (i = 1; i < numbers.Length; i++)
-    //{
-    //    numbers[i] = number / i;
-    //}
-
-    //Console.WriteLine(numbers[i]);
-
-    number = 15 % 5;
-    if (number == 0)
-        Console.WriteLine("Zo'r");
-    else Console.WriteLine("Rasvo");
+    for (int i = 1; i < divisors.Length; i++)
+    {
+        divisors[i] = i+1;
+        if (number % divisors[i] == 0)
+            Console.Write(divisors[i]+ " ");
+    }
+   
 }
 catch (Exception ex)
 {
 
-	Console.Write("Xatolik: " + ex.Message);
+	Console.Write("Error:" + ex.Message);
 }
