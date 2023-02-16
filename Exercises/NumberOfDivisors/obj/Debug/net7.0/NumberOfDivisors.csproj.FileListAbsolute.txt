@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\bin\Debug\net7.0\NumberOfDivisors.exe
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\bin\Debug\net7.0\NumberOfDivisors.deps.json
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\bin\Debug\net7.0\NumberOfDivisors.runtimeconfig.json
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\bin\Debug\net7.0\NumberOfDivisors.dll
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\bin\Debug\net7.0\NumberOfDivisors.pdb
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\NumberOfDivisors.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\NumberOfDivisors.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\NumberOfDivisors.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\NumberOfDivisors.AssemblyInfo.cs
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\NumberOfDivisors.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\NumberOfDivisors.dll
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\refint\NumberOfDivisors.dll
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\NumberOfDivisors.pdb
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\NumberOfDivisors.genruntimeconfig.cache
+D:\practicVisualStudio\MyPractic_C#\Exercises\NumberOfDivisors\obj\Debug\net7.0\ref\NumberOfDivisors.dll
