@@ -14,7 +14,11 @@ namespace _12_Interface
             {
                 return "Burun";
             }
+           
         }
-        void NafasOlish();
+       public void NafasOlish()
+        {
+            Console.WriteLine("Nafas olindi");
+        }
     }
 }

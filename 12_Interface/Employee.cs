@@ -8,7 +8,6 @@ class Employee: Human
 
     public Employee(int boyi, int vazni , decimal maosh)
         : base(boyi, vazni)
-
     {
         _maosh= maosh;
     }

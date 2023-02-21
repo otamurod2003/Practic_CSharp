@@ -10,6 +10,11 @@ namespace _12_Interface
             Human inson = new Human();  
             Employee xodim = new Employee(); 
             Doctor shifokor = new Doctor();
+            shifokor.Ismi = "Nematilla";
+            shifokor.Maosh = 12221;
+            shifokor.Vazni = 155;
+            shifokor.Tajriba = 0;
+            shifokor.Boyi = 180;
             Programmer dasturchi = new Programmer();
             Teacher oqituvchi = new Teacher
             {
@@ -21,15 +26,22 @@ namespace _12_Interface
             };
 
             string generals = string.Join(",", oqituvchi.Ismi.ToString(), oqituvchi.Speciality.ToString(), oqituvchi.Maosh.ToString(), oqituvchi.Boyi.ToString(), oqituvchi.Vazni.ToString());
-            for (int i=0; i< generals.Length; i++)
+            foreach(char q in generals)
             {
-                Console.Write(generals[i]);
-
-
-               
+                Console.Write(q);
             }
              
             Console.WriteLine(Environment.NewLine +  "Uzunligi:" + generals.Length);
+            Fish fish1 = new Fish();
+            Console.WriteLine(fish1.NafasOlishAzosi);
+
+            Doctor shifokor2 = (Doctor)shifokor.Clone();
+            
+            shifokor2.Ismi = "Hayot ";
+           
+            Console.WriteLine(shifokor.Ismi);
+            Console.WriteLine(shifokor2.Ismi);
+
         }
     }
 }

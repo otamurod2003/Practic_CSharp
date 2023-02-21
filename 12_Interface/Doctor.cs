@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _12_Interface
 {
-    class Doctor : Employee
+    class Doctor : Employee,ICloneable
     {
         private int _tajriba;
         public int Tajriba { get; set; }
@@ -21,5 +21,9 @@ namespace _12_Interface
 
         }
 
+        public object Clone()
+        {
+            return new Doctor();
+        }
     }   
 }

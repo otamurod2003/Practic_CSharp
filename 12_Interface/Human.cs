@@ -8,15 +8,15 @@ using System.Threading.Tasks;
 
 namespace _12_Interface
 {
-    class Human : INafasOluvchi
+     class Human : INafasOluvchi
     {
         private int _boyi;
         private int _vazni;
-        public int Boyi  { get; set; }
+        public int Boyi { get; set; }
         public int Vazni { get; set; }
         public string Ismi { get; set; }
 
-        public Human(int boyi, int vazni )
+        public Human(int boyi, int vazni)
         {
             _boyi = boyi;
             _vazni = vazni;
@@ -30,7 +30,7 @@ namespace _12_Interface
 
         public void NafasOlish()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Nafas olindi");
         }
     }
 }
