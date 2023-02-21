@@ -2,6 +2,7 @@
 {
      class Pul
     {
+        //converter valuta
         public string Valyuta { get; set; }
         public int Miqdor { get;set; }
 
@@ -9,6 +10,8 @@
         {
             miqdor = Miqdor;
             Valyuta = "UZS";
+
+
         }
 
         public delegate void PulDelegati(Pul pul);

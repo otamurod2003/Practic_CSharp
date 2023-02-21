@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MyPractic_C#\13_Events\bin\Debug\net7.0\13_Events.exe
+D:\practicVisualStudio\MyPractic_C#\13_Events\bin\Debug\net7.0\13_Events.deps.json
+D:\practicVisualStudio\MyPractic_C#\13_Events\bin\Debug\net7.0\13_Events.runtimeconfig.json
+D:\practicVisualStudio\MyPractic_C#\13_Events\bin\Debug\net7.0\13_Events.dll
+D:\practicVisualStudio\MyPractic_C#\13_Events\bin\Debug\net7.0\13_Events.pdb
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\13_Events.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\13_Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\13_Events.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\13_Events.AssemblyInfo.cs
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\13_Events.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\13_Events.dll
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\refint\13_Events.dll
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\13_Events.pdb
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\13_Events.genruntimeconfig.cache
+D:\practicVisualStudio\MyPractic_C#\13_Events\obj\Debug\net7.0\ref\13_Events.dll

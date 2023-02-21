@@ -1,4 +1,6 @@
-﻿namespace _11_Delegate
+﻿using System.Security.Principal;
+
+namespace _11_Delegate
 {
     class Program
     {
@@ -11,7 +13,6 @@
             Console.WriteLine(pulDelegati.Method.Name);
 
             
-
         }
     }
 }
