@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_Interface", "12_Interfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Events", "13_Events\13_Events.csproj", "{663AB25E-C1D4-41D6-93D3-3AF5988C0388}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystem", "FileSystem\FileSystem.csproj", "{536270FC-C0DE-48DE-94A8-667182D6551D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{663AB25E-C1D4-41D6-93D3-3AF5988C0388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{663AB25E-C1D4-41D6-93D3-3AF5988C0388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{663AB25E-C1D4-41D6-93D3-3AF5988C0388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536270FC-C0DE-48DE-94A8-667182D6551D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536270FC-C0DE-48DE-94A8-667182D6551D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536270FC-C0DE-48DE-94A8-667182D6551D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536270FC-C0DE-48DE-94A8-667182D6551D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
