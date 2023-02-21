@@ -1,0 +1,15 @@
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\bin\Debug\net7.0\14_FileSystem.exe
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\bin\Debug\net7.0\14_FileSystem.deps.json
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\bin\Debug\net7.0\14_FileSystem.runtimeconfig.json
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\bin\Debug\net7.0\14_FileSystem.dll
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\bin\Debug\net7.0\14_FileSystem.pdb
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\14_FileSystem.csproj.AssemblyReference.cache
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\14_FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\14_FileSystem.AssemblyInfoInputs.cache
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\14_FileSystem.AssemblyInfo.cs
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\14_FileSystem.csproj.CoreCompileInputs.cache
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\14_FileSystem.dll
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\refint\14_FileSystem.dll
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\14_FileSystem.pdb
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\14_FileSystem.genruntimeconfig.cache
+D:\practicVisualStudio\MyPractic_C#\14_FileSystem\obj\Debug\net7.0\ref\14_FileSystem.dll
