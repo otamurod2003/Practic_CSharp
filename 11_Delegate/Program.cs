@@ -1,34 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Linq;
-
-namespace _11_Delegate
+﻿namespace _11_Delegate
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //UZS to USD
-            Pul Uzs = new Pul(3450000);
-            PulBoshqaruvchi pulboshqaruvchi = new PulBoshqaruvchi();
-            Pul.PulDelegati pulDelegati = new Pul.PulDelegati(pulboshqaruvchi.UZStoUSD);
-            pulboshqaruvchi.pulYuborish(Uzs, "Agrobank", pulDelegati);
+            Pul pul = new Pul(232232);
+            PulBoshqaruvchi pulBoshqaruvchi = new PulBoshqaruvchi();
+            Pul.PulDelegati pulDelegati = new Pul.PulDelegati(pulBoshqaruvchi.UzsToUsd);
+            pulBoshqaruvchi.Yuborish(pul, "AGRO", pulDelegati);
+            Console.WriteLine(pulDelegati.Method.Name);
 
-
-            //USD to UZS
-            Pul Usd = new Pul(305);
-            PulBoshqaruvchi pulboshqaruvchi1 = new PulBoshqaruvchi();
-            Pul.PulDelegati pulDelegati1 = new Pul.PulDelegati(pulboshqaruvchi1.USDtoUZS);
-            pulboshqaruvchi1.pulYuborish(Usd, "SQB", pulDelegati1);
-
-            //Uzs to Rubl
-            Pul Rubl = new Pul(15000);
-            PulBoshqaruvchi pulboshqaruvchi2 = new PulBoshqaruvchi();
-            Pul.PulDelegati pulDelegati2 = new Pul.PulDelegati(pulboshqaruvchi2.UZStoRUBL);
-            pulboshqaruvchi2.pulYuborish(Rubl, "KapitalBank", pulDelegati2);
-
-           
+            
 
         }
     }

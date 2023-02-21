@@ -1,41 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _11_Delegate
+﻿namespace _11_Delegate
 {
-    class PulBoshqaruvchi
+     class PulBoshqaruvchi
     {
-        //So'mdan aqsh dollariga o'giradi...
-        public void UZStoUSD(Pul pul)
+        public void UzsToUsd(Pul pul)
         {
-            pul.Valuta = "USD";
-            pul.Miqdor /= 11400;
+            pul.Valyuta = "USD";
+            pul.Miqdor /= 11250;
         }
 
-        //AQSH dollaridan so'mga o'giradi
-
-        public void USDtoUZS(Pul pul)
+        public void UsdToUzs(Pul pul)
         {
-            pul.Valuta = "UZS";
-            pul.Miqdor *= 11350;
-
-        }
-        //So'mdan rublga o'giradi
-        public void UZStoRUBL(Pul pul)
-        {
-            pul.Valuta = "Rubl";
-            pul.Miqdor /= 235;
+            pul.Valyuta = "UZS";
+            pul.Miqdor = pul.Miqdor * 11350;
         }
 
-        public void pulYuborish(Pul pul, string bank, Pul.PulDelegati delegati)
-        {
-            if (delegati.Target != null)
-                delegati(pul);
-            Console.WriteLine(pul.Miqdor.ToString("0.00") + " " + pul.Valuta + "  miqdordagi pul" + bank+" " + " bankiga muvaffaqqiyatli o'tkazildi");
 
+        public void Yuborish(Pul pul,string bank,Pul.PulDelegati delegat)
+        {
+            if (delegat.Target != null)
+                delegat(pul);
+
+        Console.WriteLine(pul.Miqdor.ToString("0.00")+ " " + pul.Valyuta + "miqdoridagi summa " + bank + " ga o'tkazildi");
 
         }
     }

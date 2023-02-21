@@ -1,22 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _11_Delegate
+﻿namespace _11_Delegate
 {
-    class Pul
+     class Pul
     {
-        public double Miqdor { get; set; } //pul miqdori    
-        public string Valuta { get; set; } // Valuta
+        public string Valyuta { get; set; }
+        public int Miqdor { get;set; }
+
         public Pul(double miqdor)
         {
-            Miqdor = miqdor;
-            Valuta = "UZS";
+            miqdor = Miqdor;
+            Valyuta = "UZS";
         }
-        public delegate void PulDelegati(Pul pul);  
-            
 
+        public delegate void PulDelegati(Pul pul);
     }
 }
