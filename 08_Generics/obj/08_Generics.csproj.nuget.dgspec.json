@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicVisualStudio\\MyPractic_C#\\08_Generics\\08_Generics.csproj": {}
+    "D:\\myPractic\\C#_Basics\\08_Generics\\08_Generics.csproj": {}
   },
   "projects": {
-    "D:\\practicVisualStudio\\MyPractic_C#\\08_Generics\\08_Generics.csproj": {
+    "D:\\myPractic\\C#_Basics\\08_Generics\\08_Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\08_Generics\\08_Generics.csproj",
+        "projectUniqueName": "D:\\myPractic\\C#_Basics\\08_Generics\\08_Generics.csproj",
         "projectName": "08_Generics",
-        "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\08_Generics\\08_Generics.csproj",
+        "projectPath": "D:\\myPractic\\C#_Basics\\08_Generics\\08_Generics.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\08_Generics\\obj\\",
+        "outputPath": "D:\\myPractic\\C#_Basics\\08_Generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

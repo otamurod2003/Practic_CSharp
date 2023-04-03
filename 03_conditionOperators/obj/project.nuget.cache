@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i2QIWyNorZl+tw46oXmI0R9mD5BZkxw/7V4S4q1B7bQiBqcYMWV+e+E8RR+KMCeO+Rn7IZqJelHznFwYSUyK8A==",
+  "dgSpecHash": "UyguVTSw48a5C52h5eSCEyoiT3v3HRlotLQLTxTzCbTOagBI27ZNawooi1SQW4+szWaWE24OnHIOm/YUOPI6sg==",
   "success": true,
-  "projectFilePath": "D:\\practicVisualStudio\\MyPractic_C#\\03_conditionOperators\\03_conditionOperators.csproj",
+  "projectFilePath": "D:\\myPractic\\C#_Basics\\03_conditionOperators\\03_conditionOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EaUyyI/yAFjj26S3gwqvxC7rAeGFPYHaSziXoCnR+1lZS1fsGZrQjF1m8nxGPBILxbWBHdm8NAMsOCJwicPRQg==",
+  "dgSpecHash": "+EOqp/38iOFDD7MCIfk1xrCjgIQ4u0rZN1FE17cwiugK/UEFL3RSMT6LTRSpUqrRRy6w6yM90eEUHveejqNkNw==",
   "success": true,
-  "projectFilePath": "D:\\practicVisualStudio\\MyPractic_C#\\12_Interface\\12_Interface.csproj",
+  "projectFilePath": "D:\\myPractic\\C#_Basics\\12_Interface\\12_Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

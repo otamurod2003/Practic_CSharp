@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ciKDCvam3flkeAdR5ln/m1H6viJe4lLJu9oNW/iYiIgr7e+gMIIx6+96y5oRt4H3w6ZrqfsxwhK+6wMfTVz1Yw==",
+  "dgSpecHash": "TpFTslD6G1t64BYjbg0xyEMyKbJVg5Xu7lgNS3S9Dwlb7lXB3ZzoiR057NHqFxFJnFUQfg8JKq5oHj5CA0Y7bQ==",
   "success": true,
-  "projectFilePath": "D:\\practicVisualStudio\\MyPractic_C#\\01_HelloWorld\\01_HelloWorld.csproj",
+  "projectFilePath": "D:\\myPractic\\C#_Basics\\01_HelloWorld\\01_HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

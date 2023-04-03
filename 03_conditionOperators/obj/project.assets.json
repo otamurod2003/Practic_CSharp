@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\03_conditionOperators\\03_conditionOperators.csproj",
+      "projectUniqueName": "D:\\myPractic\\C#_Basics\\03_conditionOperators\\03_conditionOperators.csproj",
       "projectName": "03_conditionOperators",
-      "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\03_conditionOperators\\03_conditionOperators.csproj",
+      "projectPath": "D:\\myPractic\\C#_Basics\\03_conditionOperators\\03_conditionOperators.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\03_conditionOperators\\obj\\",
+      "outputPath": "D:\\myPractic\\C#_Basics\\03_conditionOperators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

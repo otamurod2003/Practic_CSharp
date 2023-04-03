@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicVisualStudio\\MyPractic_C#\\14_FileSystem\\14_FileSystem.csproj": {}
+    "D:\\myPractic\\C#_Basics\\14_FileSystem\\14_FileSystem.csproj": {}
   },
   "projects": {
-    "D:\\practicVisualStudio\\MyPractic_C#\\14_FileSystem\\14_FileSystem.csproj": {
+    "D:\\myPractic\\C#_Basics\\14_FileSystem\\14_FileSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\14_FileSystem\\14_FileSystem.csproj",
+        "projectUniqueName": "D:\\myPractic\\C#_Basics\\14_FileSystem\\14_FileSystem.csproj",
         "projectName": "14_FileSystem",
-        "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\14_FileSystem\\14_FileSystem.csproj",
+        "projectPath": "D:\\myPractic\\C#_Basics\\14_FileSystem\\14_FileSystem.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\14_FileSystem\\obj\\",
+        "outputPath": "D:\\myPractic\\C#_Basics\\14_FileSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

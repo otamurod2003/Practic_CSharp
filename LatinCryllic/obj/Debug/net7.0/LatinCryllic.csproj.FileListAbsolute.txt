@@ -1,0 +1,15 @@
+D:\myPractic\C#_Basics\LatinCryllic\bin\Debug\net7.0\LatinCryllic.exe
+D:\myPractic\C#_Basics\LatinCryllic\bin\Debug\net7.0\LatinCryllic.deps.json
+D:\myPractic\C#_Basics\LatinCryllic\bin\Debug\net7.0\LatinCryllic.runtimeconfig.json
+D:\myPractic\C#_Basics\LatinCryllic\bin\Debug\net7.0\LatinCryllic.dll
+D:\myPractic\C#_Basics\LatinCryllic\bin\Debug\net7.0\LatinCryllic.pdb
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\LatinCryllic.csproj.AssemblyReference.cache
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\LatinCryllic.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\LatinCryllic.AssemblyInfoInputs.cache
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\LatinCryllic.AssemblyInfo.cs
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\LatinCryllic.csproj.CoreCompileInputs.cache
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\LatinCryllic.dll
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\refint\LatinCryllic.dll
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\LatinCryllic.pdb
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\LatinCryllic.genruntimeconfig.cache
+D:\myPractic\C#_Basics\LatinCryllic\obj\Debug\net7.0\ref\LatinCryllic.dll

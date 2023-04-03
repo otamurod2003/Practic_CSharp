@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vtk6kpF3kmVQ7sgkJcB0mwULTBEvGZmkw17DJjhZb+UBo/kj3/F9C8wfEKp57aFTSqM3mPmbjyK5WofmrY7ORQ==",
+  "dgSpecHash": "Esc04QR7iLmV8xcdkPlSS6PZaFlra95kJ29jrqBaqIHPunMU3s6C7TShxZN39TSpztO0NK6Vt7fQgjdqJIWdow==",
   "success": true,
-  "projectFilePath": "D:\\practicVisualStudio\\MyPractic_C#\\13_Events\\13_Events.csproj",
+  "projectFilePath": "D:\\myPractic\\C#_Basics\\13_Events\\13_Events.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

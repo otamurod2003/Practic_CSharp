@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JAAGZekA5TpNXIKplnSv0UZT7rRRo+Q1NRIzIzG4BGZyL2VUhQR7IgWBQBpVuzWkUoYHStfBfBqLZDKAC/714A==",
+  "dgSpecHash": "c324SoaEP9C3MB46jXcILxPxbF7C6DZxyCRxgcKCeFzVwO++SfBO54qiqzwaEblOiyI47/0r9HPwU22KQ202FA==",
   "success": true,
-  "projectFilePath": "D:\\practicVisualStudio\\MyPractic_C#\\11_Delegate\\11_Delegate.csproj",
+  "projectFilePath": "D:\\myPractic\\C#_Basics\\11_Delegate\\11_Delegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

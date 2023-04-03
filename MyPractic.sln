@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_Events", "13_Events\13_E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_FileSystem", "14_FileSystem\14_FileSystem.csproj", "{73A09032-A88F-4591-823A-33F30A2EA69D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_EntityFramework", "15_EntityFramework\15_EntityFramework.csproj", "{7F3E4399-36B7-4A9D-938A-450FC86E88E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatinCryllic", "LatinCryllic\LatinCryllic.csproj", "{880A3FE1-648B-4F3A-93E5-61AA653C6534}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,10 +95,10 @@ Global
 		{73A09032-A88F-4591-823A-33F30A2EA69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73A09032-A88F-4591-823A-33F30A2EA69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73A09032-A88F-4591-823A-33F30A2EA69D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7F3E4399-36B7-4A9D-938A-450FC86E88E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F3E4399-36B7-4A9D-938A-450FC86E88E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F3E4399-36B7-4A9D-938A-450FC86E88E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F3E4399-36B7-4A9D-938A-450FC86E88E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880A3FE1-648B-4F3A-93E5-61AA653C6534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880A3FE1-648B-4F3A-93E5-61AA653C6534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880A3FE1-648B-4F3A-93E5-61AA653C6534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880A3FE1-648B-4F3A-93E5-61AA653C6534}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "if6mPwJhKhpk8dYTtRXSbGS4LULn51HuIWaYcIllvpysrvXLGqOve6Abdl61lbgpPZVMWQe/HEkZnBJPFuugfQ==",
+  "dgSpecHash": "soI0At5dwq6Vh4UntBlQsIZBg0hJwqd4SPQwf3gt2blyptRv6bKDwM1N7OuXT5OGasRQbJMvLF/en7gImFXF+g==",
   "success": true,
-  "projectFilePath": "D:\\practicVisualStudio\\MyPractic_C#\\08_Generics\\08_Generics.csproj",
+  "projectFilePath": "D:\\myPractic\\C#_Basics\\08_Generics\\08_Generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

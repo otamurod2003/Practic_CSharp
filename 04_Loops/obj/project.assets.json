@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\practicVisualStudio\\MyPractic_C#\\04_Loops\\04_Loops.csproj",
+      "projectUniqueName": "D:\\myPractic\\C#_Basics\\04_Loops\\04_Loops.csproj",
       "projectName": "04_Loops",
-      "projectPath": "D:\\practicVisualStudio\\MyPractic_C#\\04_Loops\\04_Loops.csproj",
+      "projectPath": "D:\\myPractic\\C#_Basics\\04_Loops\\04_Loops.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "D:\\practicVisualStudio\\MyPractic_C#\\04_Loops\\obj\\",
+      "outputPath": "D:\\myPractic\\C#_Basics\\04_Loops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
