@@ -13,11 +13,15 @@
             List<string> towers = new List<string> { "Tokio", "Kuala Lumpur", "Buenos-Ayres", "Tashkent", "Jakarta", "Moskva" };
 
             var sortedTowersByLength = towers.Where(text=> text.Length>8); // sorted by length
-            sortedTowersByLength = towers.Where(text => text.StartsWith('B'));
+            sortedTowersByLength = towers.Where(text => text.StartsWith('Q'));
+            if (sortedTowersByLength is null)
+                Console.WriteLine("no towers startswith A values");
+           else
+                Console.WriteLine(string.Join(",", sortedTowersByLength));
+           
 
-            Console.WriteLine(string.Join(",", sortedTowersByLength));
 
-            var orderedTowers = towers.OrderBy(o=> o);
+            var orderedTowers = towers.OrderBy(o=> o).ToList();
             Console.WriteLine(string.Join("  ", orderedTowers));
         }
     }
