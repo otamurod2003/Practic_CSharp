@@ -1,0 +1,15 @@
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\Delegates.csproj.AssemblyReference.cache
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+D:\myPractic\C#_Basics\Delegates\bin\Debug\net7.0\Delegates.exe
+D:\myPractic\C#_Basics\Delegates\bin\Debug\net7.0\Delegates.deps.json
+D:\myPractic\C#_Basics\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+D:\myPractic\C#_Basics\Delegates\bin\Debug\net7.0\Delegates.dll
+D:\myPractic\C#_Basics\Delegates\bin\Debug\net7.0\Delegates.pdb
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\Delegates.dll
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\Delegates.pdb
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+D:\myPractic\C#_Basics\Delegates\obj\Debug\net7.0\ref\Delegates.dll
